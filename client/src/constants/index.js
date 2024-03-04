@@ -47,4 +47,4 @@ export const surpriseMePrompts = [
   "A Space Shuttle flying above Cape Town, digital art",
 ];
 
-export const BASE_URL = "http://localhost:9000/api/v1";
+export const BASE_URL = "https://website-pictoria.onrender.com/api/v1";
